@@ -1,0 +1,33 @@
+#navbar{
+  position:fixed;
+  left:0;
+  padding:20px;
+}
+#navbar header{
+  margin-bottom:7;
+  font-size:1.618em;
+  color:#0f0f0f;
+  background-color:#f0f0f0;
+}
+#navbar a{
+  display:block;
+  margin-bottom:8px;
+  text-decoration:none;
+}
+#main-doc{
+   margin-left:200px;
+}
+@media(max-height:600px) {
+  .main-section{
+    font-size:70%;
+  }
+}
+section{
+  text-size:80%;
+  background-color:#f0f0f0;
+  margin:8px 8px;
+}
+header{
+  text-decoration:underline;
+  
+}
